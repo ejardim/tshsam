@@ -52,7 +52,7 @@ The input data for assessments consisted in:
 	\item mean weight-at-age in the stock (in kg)
 \end{itemize}
 
-Fishery and survey data were available for the BB [CHECK]...
+Fishery and survey data were available for the BB.% [CHECK]...
 
 For the NW and S stocks, data on the fishery, maturity-at-age and weights-at-age span the period 1991-2014. Data from acoustic and DEPM surveys span from 1996 and 1997 to 2014, respectively. The datasets for the NW and S stocks were compiled from data disaggregated into seven ICES Divisions reported annually to the working groups for the assessment of the Atlantic-Iberian sardine stock. The NW stock comprise Divisions 8.c (South Bay of Biscay), 9.a.n (South Galicia), 9a.CN (North Portugal) and 9.a.CS (South-West Portugal) and the South stock comprise Divisions 9.a.Sa (South-Portugal) and 9.a.Sc (Gulf of Cadiz). Data by ICES Division were summed (in the case of catch and abundance) or weighted-averaged (in the case of mean weights and maturity ogives) to obtain the datasets for the NW and S stocks. The catch-at-age and abundance-at-age pooled from the NW and S showed some differences, generally below 5\%, to the dataset used in the assessment of the Atlantic-Iberian stock. 
 
